@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "name": "Hotel A",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.com.au%2FTourism-g187147-Paris_Ile_de_France-Vacations.html&psig=AOvVaw1LO2uKa4iETrJHvqzlaUWW&ust=1719725207149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiDqIaKgIcDFQAAAAAdAAAAABAE",
+      "review": "(400)",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Hotel B",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.com.au%2FTourism-g187147-Paris_Ile_de_France-Vacations.html&psig=AOvVaw1LO2uKa4iETrJHvqzlaUWW&ust=1719725207149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiDqIaKgIcDFQAAAAAdAAAAABAE",
+      "review": "(300)",
+      "rating": "3"
+    },
+    {
+      "id": "3",
+      "name": "Hotel C",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.com.au%2FTourism-g187147-Paris_Ile_de_France-Vacations.html&psig=AOvVaw1LO2uKa4iETrJHvqzlaUWW&ust=1719725207149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiDqIaKgIcDFQAAAAAdAAAAABAE",
+      "review":"(200)",
+      "rating": "4"
+    }
+
+    
+  ]
+  

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "image": "https://www.istockphoto.com/photo/grayscale-vertical-view-of-the-eiffel-tower-from-pont-alexandre-iii-bridge-in-paris-gm1452001894-488555411?utm_campaign=category_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fimages%2Ftravel%2Fparis&utm_medium=affiliate&utm_source=unsplash&utm_term=Paris+Pictures+%26+Images%3A%3A%3A",
+    "description": "The City of Light, known for its cafes, museums, and the Eiffel Tower.",
+    "rating": 4.8,
+    "price": 1200,
+    "duration": "5 days",
+    "location": "France",
+    "category": "City"
+  },
+  {
+    "id": 2,
+    "name": "Bali",
+    "image":"@/assets/bali.jpg",
+    "description": "A tropical paradise with stunning beaches, vibrant culture, and lush landscapes.",
+    "rating": 4.7,
+    "price": 1000,
+    "duration": "7 days",
+    "location": "Indonesia",
+    "category": "Beach"
+  },
+  {
+    "id": 3,
+    "name": "New York City",
+    "image": "https://source.unsplash.com/1600x900/?new-york",
+    "description": "The Big Apple, a bustling metropolis with iconic landmarks and diverse culture.",
+    "rating": 4.5,
+    "price": 1500,
+    "duration": "4 days",
+    "location": "USA",
+    "category": "City"
+  },
+  {
+    "id": 4,
+    "name": "Kyoto",
+    "image": "https://source.unsplash.com/1600x900/?kyoto",
+    "description": "A city of temples and gardens, blending traditional and modern Japan.",
+    "rating": 4.9,
+    "price": 1300,
+    "duration": "6 days",
+    "location": "Japan",
+    "category": "Cultural"
+  },
+  {
+    "id": 5,
+    "name": "Santorini",
+    "image": "https://source.unsplash.com/1600x900/?santorini",
+    "description": "A beautiful island with whitewashed buildings and stunning sunsets.",
+    "rating": 4.8,
+    "price": 1100,
+    "duration": "5 days",
+    "location": "Greece",
+    "category": "Beach"
+  },
+  {
+    "id": 6,
+    "name": "Sydney",
+    "image": "https://source.unsplash.com/1600x900/?sydney",
+    "description": "A vibrant city known for its Sydney Opera House and beautiful harbor.",
+    "rating": 4.6,
+    "price": 1400,
+    "duration": "7 days",
+    "location": "Australia",
+    "category": "City"
+  },
+  {
+    "id": 7,
+    "name": "Marrakech",
+    "image": "https://source.unsplash.com/1600x900/?marrakech",
+    "description": "A city of vibrant markets, palaces, and beautiful gardens.",
+    "rating": 4.7,
+    "price": 900,
+    "duration": "5 days",
+    "location": "Morocco",
+    "category": "Cultural"
+  },
+  {
+    "id": 8,
+    "name": "Rome",
+    "image": "https://source.unsplash.com/1600x900/?rome",
+    "description": "The Eternal City, filled with ancient ruins, art, and history.",
+    "rating": 4.8,
+    "price": 1250,
+    "duration": "6 days",
+    "location": "Italy",
+    "category": "Cultural"
+  },
+  {
+    "id": 9,
+    "name": "Cape Town",
+    "image": "https://source.unsplash.com/1600x900/?cape-town",
+    "description": "A city with stunning landscapes, vibrant culture, and beautiful beaches.",
+    "rating": 4.7,
+    "price": 1100,
+    "duration": "7 days",
+    "location": "South Africa",
+    "category": "Beach"
+  },
+  {
+    "id": 10,
+    "name": "Dubai",
+    "image": "https://source.unsplash.com/1600x900/?dubai",
+    "description": "A modern city known for its skyscrapers, luxury shopping, and vibrant nightlife.",
+    "rating": 4.5,
+    "price": 1600,
+    "duration": "4 days",
+    "location": "UAE",
+    "category": "City"
+  }
+]
